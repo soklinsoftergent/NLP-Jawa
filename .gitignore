@@ -1,0 +1,6 @@
+﻿resources/
+kumpulan_corpora/
+*.xml
+*.bz2
+combined.txt
+cleans/javanese_clean.txt
